@@ -1,5 +1,6 @@
 {
   
+  posts : [
   "type":"Feature",
   "id":"00722156-e462-5128-8c94-43dbe6fd8151",
   "properties":{
@@ -37,4 +38,5 @@
   "profile": {
     "name": "typicode"
   }
+ ]
 }
