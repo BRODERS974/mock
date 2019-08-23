@@ -1,8 +1,11 @@
 {
-"type":"Feature",
-"id":"00722156-e462-5128-8c94-43dbe6fd8151",
-"properties":{
-  "tcid": "12524125-e500-6024-8c94-43dbe6fd8151",
-   "tc": "put here your terms and conditions"
- }
+"posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
